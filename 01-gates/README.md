@@ -5,10 +5,11 @@
 1. Equations of all three versions of logic function f(c,b,a):
 
 ```math
+\begin{align*}
 f_{\textup{ORIG}}(c,b,a) =&~ \overline{b}\cdot a + c\cdot\overline{(b+\overline{a})}\\
-f_{\textup{(N)AND}}(c,b,a) =&~ \overline{\overline{(\overline{b}\cdot a)}\cdot \overline{(c\cdot \overline{b}\cdot \overline{a})}}\\
+f_{\textup{(N)AND}}(c,b,a) =&~ \overline{\overline{(\overline{b}\cdot a)}\cdot \overline{(c\cdot \overline{b}\cdot a)}}\\
 f_{\textup{(N)OR}}(c,b,a) =&~ \overline{b+\overline{a}}+\overline{\overline{c}+b+\overline{a}}\\
-
+\end{align*}
 ```
 
 2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
