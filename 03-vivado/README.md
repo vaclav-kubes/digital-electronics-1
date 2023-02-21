@@ -1,15 +1,16 @@
-# Lab 3: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 3: VÁCLAV KUBEŠ
 
 ### Three-bit wide 4-to-1 multiplexer
 
 1. Listing of VHDL architecture from source file `mux_3bit_4to1.vhd`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
 ```vhdl
-architecture Behavioral of mux_3bit_4to1 is
+architecture Behavioral of mux_3bit_4to_1 is
 begin
-
-    -- WRITE YOUR CODE HERE
-
+       f_o <= a_i when (sel_i = "00" ) else
+            	b_i when (sel_i = "01" ) else
+            	c_i when (sel_i = "10" ) else
+            	d_i when (sel_i = "11" );              
 end architecture Behavioral;
 ```
 
