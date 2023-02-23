@@ -6,18 +6,18 @@
 
    Greater than:
 
-   ![K-maps](k-map-b_great_a.png)
+   ![K-maps](marked-k-map-b_great_a.png)
 
    Less than:
 
-   ![K-maps](k-map-b_less_a.png)
+   ![K-maps](marked-k-map-b_less_a.png)
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
 ```math
 \begin{aligned}
 y_{B > A}^{SoP}=b_{1}\overline{a_{1}}+\overline{a_{1}} \overline{a_{0}}b_{0}+b_{0}b_{1}\overline{a_{0}}\\\
-y_{B < A}^{PoS}=(a_{1}+a_{0})(b_{1}+b_{0})(\overline{b_{1}}+a_{1})(\overline{b_{0}}+a_{1})(b_{1}+a_{0})\\\
+y_{B < A}^{PoS}=(a_{1}+a_{0})(\overline{b_{1}}+\overline{b_{0}})(\overline{b_{1}}+a_{1})(\overline{b_{0}}+a_{1})(b_{1}+a_{0})\\\
 \end{aligned}
 ```
 
