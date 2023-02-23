@@ -19,4 +19,4 @@ Complete the decoder truth table for **common anode** 7-segment display.
    | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
    | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
    
-![https://lastminuteengineers.com/seven-segment-arduino-tutorial/]([images/7-Segment-Display-Number-Formation-Segment-Contol.png](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/7-Segment-Display-Number-Formation-Segment-Contol.png))
+![https://lastminuteengineers.com/seven-segment-arduino-tutorial/](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/7-Segment-Display-Number-Formation-Segment-Contol.png)
