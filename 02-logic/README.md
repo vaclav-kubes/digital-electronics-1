@@ -16,7 +16,7 @@
 
 ```math
 \begin{aligned}
-y_{B > A}^{SoP}=b_{1}\overline{a_{1}}+\overline{a_{1}} \overline{a_{0}}b_{0}+b_{0}b_{1}\overline{a_{0}}\\\
+y_{B > A}^{SoP}=b_{1}\overline{a_{1}}+\overline{a_{1}}b_{0}\overline{a_{0}}+b_{0}b_{1}\overline{a_{0}}\\\
 y_{B < A}^{PoS}=(a_{1}+a_{0})(\overline{b_{1}}+\overline{b_{0}})(\overline{b_{1}}+a_{1})(\overline{b_{0}}+a_{1})(\overline{b_{1}}+a_{0})\\\
 \end{aligned}
 ```
