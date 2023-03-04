@@ -43,7 +43,7 @@
    
 ```
 
-3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale! →**note: there are only bits 4 - 7 in 'LED' changed  to be clear and easy to check for correctness** 
-[EDA playground](https://edaplayground.com/x/dpQB)
+3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!  
+[EDA playground](https://edaplayground.com/x/DRpA)
 
-   ![waves form simulation](wave_led_seg.png)
+   ![waves form simulation](7seg_dec_wave(2).png)
