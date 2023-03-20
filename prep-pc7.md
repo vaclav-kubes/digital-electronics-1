@@ -1,5 +1,5 @@
 
-'''
+```
 {
   signal:
   [
@@ -26,5 +26,5 @@
     text: '                    4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
   },
 }
-'''
+```
 ![wavedrom](https://user-images.githubusercontent.com/124675800/226407191-f21aed63-f8af-46f1-8a3b-2c1c613d44ab.svg)
